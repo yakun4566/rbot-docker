@@ -8,13 +8,9 @@ services:
     container_name: zsz-rbot
     restart: always
     ports:
-      - 9527:9527
+      - "9527":"9527"
     volumes:
-      # - ./docker-entrypoint.sh:/app/docker-entrypoint.sh
       - ./supervisord.conf:/etc/supervisor/conf.d/supervisord.conf
       - ./client_config:/app/client_config
-    #   - ./bot.py:/app/bot.py
-    #   - ./config.conf:/app/config.conf
-    #   - ./crontab:/etc/cron.d/cdnip-job:ro
-      - ./logs:/var/log
-    # command: bash -c "chmod +x /app/docker-entrypoint.sh && /app/docker-entrypoint.sh"
+      - ./logs/log_r_client.log.log:/var/log/log_r_client.log.log
+      - ./logs/log_r_client.log_err.log:/var/log/log_r_client_err.log.log
