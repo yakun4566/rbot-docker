@@ -1,30 +1,3 @@
-# FROM debian:unstable-slim
-
-
-# WORKDIR /app
-# ARG DEBIAN_FRONTEND=noninteractive
-# ENV TZ=Asia/Shanghai
-
-# RUN touch /etc/apt/sources.list
-# RUN echo "deb http://deb.debian.org/debian bullseye main" >> /etc/apt/sources.list
-# RUN echo "deb-src http://deb.debian.org/debian bullseye main" >> /etc/apt/sources.list
-
-# RUN apt update -y && apt install -y curl wget supervisor  && apt install openjdk-11-jdk && apt install -y tzdata 
-
-# # RUN mkdir -p /rbot
-
-# RUN wget -O gz_client_bot.tar.gz  https://github.com/semicons/java_oci_manage/releases/latest/download/gz_client_bot.tar.gz && tar -zxvf gz_client_bot.tar.gz --exclude=client_config  && tar -zxvf gz_client_bot.tar.gz --skip-old-files client_config && chmod +x sh_client_bot.sh
-
-# COPY client_config /app/client_config
-
-# # 添加 supervisor 配置文件
-# COPY supervisord.conf /etc/supervisor/conf.d/supervisord.conf
-
-# # 启动 supervisor
-# CMD ["/usr/bin/supervisord", "-c", "/etc/supervisor/conf.d/supervisord.conf"]
-
-
-
 FROM debian:unstable-slim
 
 WORKDIR /app
