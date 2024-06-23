@@ -10,7 +10,7 @@
 
 ### 1. 克隆本项目到本地：
    ```bash
-   git clone https://gitlab.com/zszweb/rbot-docker
+   git clone https://github.com/zszweb/rbot-docker
    ```
 ### 2. 进入项目目录：
    ```bash
@@ -44,9 +44,14 @@
       user=******************************
       fingerprint=*****************************
       tenancy=*************
-      region=us-ashburn-1
+      region=jp-tokyo-1
       key_file=./key.pem
    oci=end
+
+   #用户信息 从 https://t.me/radiance_helper_bot 配置(bot可使用/raninfo命令随机生成)
+   #必传
+   username=*****************************
+   password=*****************************
 ```
 
 ### 贡献
