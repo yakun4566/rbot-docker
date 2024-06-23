@@ -4,9 +4,9 @@ oci=begin
 user=******************************
 fingerprint=*****************************
 tenancy=*************
-region=us-tokyo-1
+region=jp-tokyo-1
 key_file=./key.pem
-
+oci=end
 
 
 #用户信息 从 https://t.me/radiance_helper_bot 配置(bot可使用/raninfo命令随机生成)
