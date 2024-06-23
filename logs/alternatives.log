@@ -1,0 +1,256 @@
+update-alternatives 2024-06-23 17:26:46: run with --remove jconsole /usr/lib/jvm/java-11-openjdk-amd64/bin/jconsole
+update-alternatives 2024-06-23 17:26:46: link group jconsole fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove jar /usr/lib/jvm/java-11-openjdk-amd64/bin/jar
+update-alternatives 2024-06-23 17:26:46: link group jar fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove jarsigner /usr/lib/jvm/java-11-openjdk-amd64/bin/jarsigner
+update-alternatives 2024-06-23 17:26:46: link group jarsigner fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove javac /usr/lib/jvm/java-11-openjdk-amd64/bin/javac
+update-alternatives 2024-06-23 17:26:46: link group javac fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove javadoc /usr/lib/jvm/java-11-openjdk-amd64/bin/javadoc
+update-alternatives 2024-06-23 17:26:46: link group javadoc fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove javap /usr/lib/jvm/java-11-openjdk-amd64/bin/javap
+update-alternatives 2024-06-23 17:26:46: link group javap fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove jcmd /usr/lib/jvm/java-11-openjdk-amd64/bin/jcmd
+update-alternatives 2024-06-23 17:26:46: link group jcmd fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove jdb /usr/lib/jvm/java-11-openjdk-amd64/bin/jdb
+update-alternatives 2024-06-23 17:26:46: link group jdb fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove jdeprscan /usr/lib/jvm/java-11-openjdk-amd64/bin/jdeprscan
+update-alternatives 2024-06-23 17:26:46: link group jdeprscan fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove jdeps /usr/lib/jvm/java-11-openjdk-amd64/bin/jdeps
+update-alternatives 2024-06-23 17:26:46: link group jdeps fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove jfr /usr/lib/jvm/java-11-openjdk-amd64/bin/jfr
+update-alternatives 2024-06-23 17:26:46: link group jfr fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove jimage /usr/lib/jvm/java-11-openjdk-amd64/bin/jimage
+update-alternatives 2024-06-23 17:26:46: link group jimage fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove jinfo /usr/lib/jvm/java-11-openjdk-amd64/bin/jinfo
+update-alternatives 2024-06-23 17:26:46: link group jinfo fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove jlink /usr/lib/jvm/java-11-openjdk-amd64/bin/jlink
+update-alternatives 2024-06-23 17:26:46: link group jlink fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove jmap /usr/lib/jvm/java-11-openjdk-amd64/bin/jmap
+update-alternatives 2024-06-23 17:26:46: link group jmap fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove jmod /usr/lib/jvm/java-11-openjdk-amd64/bin/jmod
+update-alternatives 2024-06-23 17:26:46: link group jmod fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove jps /usr/lib/jvm/java-11-openjdk-amd64/bin/jps
+update-alternatives 2024-06-23 17:26:46: link group jps fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove jrunscript /usr/lib/jvm/java-11-openjdk-amd64/bin/jrunscript
+update-alternatives 2024-06-23 17:26:46: link group jrunscript fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove jshell /usr/lib/jvm/java-11-openjdk-amd64/bin/jshell
+update-alternatives 2024-06-23 17:26:46: link group jshell fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove jstack /usr/lib/jvm/java-11-openjdk-amd64/bin/jstack
+update-alternatives 2024-06-23 17:26:46: link group jstack fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove jstat /usr/lib/jvm/java-11-openjdk-amd64/bin/jstat
+update-alternatives 2024-06-23 17:26:46: link group jstat fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove jstatd /usr/lib/jvm/java-11-openjdk-amd64/bin/jstatd
+update-alternatives 2024-06-23 17:26:46: link group jstatd fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove rmic /usr/lib/jvm/java-11-openjdk-amd64/bin/rmic
+update-alternatives 2024-06-23 17:26:46: link group rmic fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove serialver /usr/lib/jvm/java-11-openjdk-amd64/bin/serialver
+update-alternatives 2024-06-23 17:26:46: link group serialver fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove jaotc /usr/lib/jvm/java-11-openjdk-amd64/bin/jaotc
+update-alternatives 2024-06-23 17:26:46: link group jaotc fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove jhsdb /usr/lib/jvm/java-11-openjdk-amd64/bin/jhsdb
+update-alternatives 2024-06-23 17:26:46: link group jhsdb fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove java /usr/lib/jvm/java-11-openjdk-amd64/bin/java
+update-alternatives 2024-06-23 17:26:46: link group java fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove jjs /usr/lib/jvm/java-11-openjdk-amd64/bin/jjs
+update-alternatives 2024-06-23 17:26:46: link group jjs fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove keytool /usr/lib/jvm/java-11-openjdk-amd64/bin/keytool
+update-alternatives 2024-06-23 17:26:46: link group keytool fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove rmid /usr/lib/jvm/java-11-openjdk-amd64/bin/rmid
+update-alternatives 2024-06-23 17:26:46: link group rmid fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove rmiregistry /usr/lib/jvm/java-11-openjdk-amd64/bin/rmiregistry
+update-alternatives 2024-06-23 17:26:46: link group rmiregistry fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove pack200 /usr/lib/jvm/java-11-openjdk-amd64/bin/pack200
+update-alternatives 2024-06-23 17:26:46: link group pack200 fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove unpack200 /usr/lib/jvm/java-11-openjdk-amd64/bin/unpack200
+update-alternatives 2024-06-23 17:26:46: link group unpack200 fully removed
+update-alternatives 2024-06-23 17:26:46: run with --remove jexec /usr/lib/jvm/java-11-openjdk-amd64/lib/jexec
+update-alternatives 2024-06-23 17:26:46: link group jexec fully removed
+update-alternatives 2024-06-23 17:27:07: run with --install /usr/bin/java java /usr/lib/jvm/java-17-openjdk-amd64/bin/java 1711 --slave /usr/share/man/man1/java.1.gz java.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/java.1.gz
+update-alternatives 2024-06-23 17:27:07: link group java updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/java
+update-alternatives 2024-06-23 17:27:07: run with --install /usr/bin/jpackage jpackage /usr/lib/jvm/java-17-openjdk-amd64/bin/jpackage 1711 --slave /usr/share/man/man1/jpackage.1.gz jpackage.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jpackage.1.gz
+update-alternatives 2024-06-23 17:27:07: link group jpackage updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jpackage
+update-alternatives 2024-06-23 17:27:07: run with --install /usr/bin/keytool keytool /usr/lib/jvm/java-17-openjdk-amd64/bin/keytool 1711 --slave /usr/share/man/man1/keytool.1.gz keytool.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/keytool.1.gz
+update-alternatives 2024-06-23 17:27:07: link group keytool updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/keytool
+update-alternatives 2024-06-23 17:27:07: run with --install /usr/bin/rmiregistry rmiregistry /usr/lib/jvm/java-17-openjdk-amd64/bin/rmiregistry 1711 --slave /usr/share/man/man1/rmiregistry.1.gz rmiregistry.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/rmiregistry.1.gz
+update-alternatives 2024-06-23 17:27:07: link group rmiregistry updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/rmiregistry
+update-alternatives 2024-06-23 17:27:07: run with --install /usr/bin/jexec jexec /usr/lib/jvm/java-17-openjdk-amd64/lib/jexec 1711 --slave /usr/share/binfmts/jar jexec-binfmt /usr/lib/jvm/java-17-openjdk-amd64/lib/jar.binfmt
+update-alternatives 2024-06-23 17:27:07: link group jexec updated to point to /usr/lib/jvm/java-17-openjdk-amd64/lib/jexec
+update-alternatives 2024-06-23 17:27:07: run with --install /usr/share/icons/default/index.theme x-cursor-theme /usr/share/icons/Adwaita/cursor.theme 90
+update-alternatives 2024-06-23 17:27:07: link group x-cursor-theme updated to point to /usr/share/icons/Adwaita/cursor.theme
+update-alternatives 2024-06-23 17:27:08: run with --install /usr/bin/jar jar /usr/lib/jvm/java-17-openjdk-amd64/bin/jar 1711 --slave /usr/share/man/man1/jar.1.gz jar.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jar.1.gz
+update-alternatives 2024-06-23 17:27:08: link group jar updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jar
+update-alternatives 2024-06-23 17:27:08: run with --install /usr/bin/jarsigner jarsigner /usr/lib/jvm/java-17-openjdk-amd64/bin/jarsigner 1711 --slave /usr/share/man/man1/jarsigner.1.gz jarsigner.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jarsigner.1.gz
+update-alternatives 2024-06-23 17:27:08: link group jarsigner updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jarsigner
+update-alternatives 2024-06-23 17:27:08: run with --install /usr/bin/javac javac /usr/lib/jvm/java-17-openjdk-amd64/bin/javac 1711 --slave /usr/share/man/man1/javac.1.gz javac.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/javac.1.gz
+update-alternatives 2024-06-23 17:27:08: link group javac updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/javac
+update-alternatives 2024-06-23 17:27:08: run with --install /usr/bin/javadoc javadoc /usr/lib/jvm/java-17-openjdk-amd64/bin/javadoc 1711 --slave /usr/share/man/man1/javadoc.1.gz javadoc.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/javadoc.1.gz
+update-alternatives 2024-06-23 17:27:08: link group javadoc updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/javadoc
+update-alternatives 2024-06-23 17:27:08: run with --install /usr/bin/javap javap /usr/lib/jvm/java-17-openjdk-amd64/bin/javap 1711 --slave /usr/share/man/man1/javap.1.gz javap.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/javap.1.gz
+update-alternatives 2024-06-23 17:27:08: link group javap updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/javap
+update-alternatives 2024-06-23 17:27:08: run with --install /usr/bin/jcmd jcmd /usr/lib/jvm/java-17-openjdk-amd64/bin/jcmd 1711 --slave /usr/share/man/man1/jcmd.1.gz jcmd.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jcmd.1.gz
+update-alternatives 2024-06-23 17:27:08: link group jcmd updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jcmd
+update-alternatives 2024-06-23 17:27:08: run with --install /usr/bin/jdb jdb /usr/lib/jvm/java-17-openjdk-amd64/bin/jdb 1711 --slave /usr/share/man/man1/jdb.1.gz jdb.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jdb.1.gz
+update-alternatives 2024-06-23 17:27:08: link group jdb updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jdb
+update-alternatives 2024-06-23 17:27:08: run with --install /usr/bin/jdeprscan jdeprscan /usr/lib/jvm/java-17-openjdk-amd64/bin/jdeprscan 1711 --slave /usr/share/man/man1/jdeprscan.1.gz jdeprscan.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jdeprscan.1.gz
+update-alternatives 2024-06-23 17:27:08: link group jdeprscan updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jdeprscan
+update-alternatives 2024-06-23 17:27:08: run with --install /usr/bin/jdeps jdeps /usr/lib/jvm/java-17-openjdk-amd64/bin/jdeps 1711 --slave /usr/share/man/man1/jdeps.1.gz jdeps.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jdeps.1.gz
+update-alternatives 2024-06-23 17:27:08: link group jdeps updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jdeps
+update-alternatives 2024-06-23 17:27:08: run with --install /usr/bin/jfr jfr /usr/lib/jvm/java-17-openjdk-amd64/bin/jfr 1711 --slave /usr/share/man/man1/jfr.1.gz jfr.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jfr.1.gz
+update-alternatives 2024-06-23 17:27:08: link group jfr updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jfr
+update-alternatives 2024-06-23 17:27:08: run with --install /usr/bin/jimage jimage /usr/lib/jvm/java-17-openjdk-amd64/bin/jimage 1711
+update-alternatives 2024-06-23 17:27:08: link group jimage updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jimage
+update-alternatives 2024-06-23 17:27:08: run with --install /usr/bin/jinfo jinfo /usr/lib/jvm/java-17-openjdk-amd64/bin/jinfo 1711 --slave /usr/share/man/man1/jinfo.1.gz jinfo.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jinfo.1.gz
+update-alternatives 2024-06-23 17:27:08: link group jinfo updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jinfo
+update-alternatives 2024-06-23 17:27:08: run with --install /usr/bin/jlink jlink /usr/lib/jvm/java-17-openjdk-amd64/bin/jlink 1711 --slave /usr/share/man/man1/jlink.1.gz jlink.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jlink.1.gz
+update-alternatives 2024-06-23 17:27:08: link group jlink updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jlink
+update-alternatives 2024-06-23 17:27:08: run with --install /usr/bin/jmap jmap /usr/lib/jvm/java-17-openjdk-amd64/bin/jmap 1711 --slave /usr/share/man/man1/jmap.1.gz jmap.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jmap.1.gz
+update-alternatives 2024-06-23 17:27:08: link group jmap updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jmap
+update-alternatives 2024-06-23 17:27:08: run with --install /usr/bin/jmod jmod /usr/lib/jvm/java-17-openjdk-amd64/bin/jmod 1711 --slave /usr/share/man/man1/jmod.1.gz jmod.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jmod.1.gz
+update-alternatives 2024-06-23 17:27:08: link group jmod updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jmod
+update-alternatives 2024-06-23 17:27:08: run with --install /usr/bin/jps jps /usr/lib/jvm/java-17-openjdk-amd64/bin/jps 1711 --slave /usr/share/man/man1/jps.1.gz jps.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jps.1.gz
+update-alternatives 2024-06-23 17:27:08: link group jps updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jps
+update-alternatives 2024-06-23 17:27:08: run with --install /usr/bin/jrunscript jrunscript /usr/lib/jvm/java-17-openjdk-amd64/bin/jrunscript 1711 --slave /usr/share/man/man1/jrunscript.1.gz jrunscript.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jrunscript.1.gz
+update-alternatives 2024-06-23 17:27:08: link group jrunscript updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jrunscript
+update-alternatives 2024-06-23 17:27:08: run with --install /usr/bin/jshell jshell /usr/lib/jvm/java-17-openjdk-amd64/bin/jshell 1711 --slave /usr/share/man/man1/jshell.1.gz jshell.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jshell.1.gz
+update-alternatives 2024-06-23 17:27:08: link group jshell updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jshell
+update-alternatives 2024-06-23 17:27:08: run with --install /usr/bin/jstack jstack /usr/lib/jvm/java-17-openjdk-amd64/bin/jstack 1711 --slave /usr/share/man/man1/jstack.1.gz jstack.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jstack.1.gz
+update-alternatives 2024-06-23 17:27:08: link group jstack updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jstack
+update-alternatives 2024-06-23 17:27:08: run with --install /usr/bin/jstat jstat /usr/lib/jvm/java-17-openjdk-amd64/bin/jstat 1711 --slave /usr/share/man/man1/jstat.1.gz jstat.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jstat.1.gz
+update-alternatives 2024-06-23 17:27:08: link group jstat updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jstat
+update-alternatives 2024-06-23 17:27:08: run with --install /usr/bin/jstatd jstatd /usr/lib/jvm/java-17-openjdk-amd64/bin/jstatd 1711 --slave /usr/share/man/man1/jstatd.1.gz jstatd.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jstatd.1.gz
+update-alternatives 2024-06-23 17:27:08: link group jstatd updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jstatd
+update-alternatives 2024-06-23 17:27:08: run with --install /usr/bin/serialver serialver /usr/lib/jvm/java-17-openjdk-amd64/bin/serialver 1711 --slave /usr/share/man/man1/serialver.1.gz serialver.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/serialver.1.gz
+update-alternatives 2024-06-23 17:27:08: link group serialver updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/serialver
+update-alternatives 2024-06-23 17:27:08: run with --install /usr/bin/jhsdb jhsdb /usr/lib/jvm/java-17-openjdk-amd64/bin/jhsdb 1711 --slave /usr/share/man/man1/jhsdb.1.gz jhsdb.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jhsdb.1.gz
+update-alternatives 2024-06-23 17:27:08: link group jhsdb updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jhsdb
+update-alternatives 2024-06-23 17:27:08: run with --install /usr/bin/jconsole jconsole /usr/lib/jvm/java-17-openjdk-amd64/bin/jconsole 1711 --slave /usr/share/man/man1/jconsole.1.gz jconsole.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jconsole.1.gz
+update-alternatives 2024-06-23 17:27:08: link group jconsole updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jconsole
+update-alternatives 2024-06-23 17:30:54: run with --remove jconsole /usr/lib/jvm/java-11-openjdk-amd64/bin/jconsole
+update-alternatives 2024-06-23 17:30:54: link group jconsole fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove jar /usr/lib/jvm/java-11-openjdk-amd64/bin/jar
+update-alternatives 2024-06-23 17:30:54: link group jar fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove jarsigner /usr/lib/jvm/java-11-openjdk-amd64/bin/jarsigner
+update-alternatives 2024-06-23 17:30:54: link group jarsigner fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove javac /usr/lib/jvm/java-11-openjdk-amd64/bin/javac
+update-alternatives 2024-06-23 17:30:54: link group javac fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove javadoc /usr/lib/jvm/java-11-openjdk-amd64/bin/javadoc
+update-alternatives 2024-06-23 17:30:54: link group javadoc fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove javap /usr/lib/jvm/java-11-openjdk-amd64/bin/javap
+update-alternatives 2024-06-23 17:30:54: link group javap fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove jcmd /usr/lib/jvm/java-11-openjdk-amd64/bin/jcmd
+update-alternatives 2024-06-23 17:30:54: link group jcmd fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove jdb /usr/lib/jvm/java-11-openjdk-amd64/bin/jdb
+update-alternatives 2024-06-23 17:30:54: link group jdb fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove jdeprscan /usr/lib/jvm/java-11-openjdk-amd64/bin/jdeprscan
+update-alternatives 2024-06-23 17:30:54: link group jdeprscan fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove jdeps /usr/lib/jvm/java-11-openjdk-amd64/bin/jdeps
+update-alternatives 2024-06-23 17:30:54: link group jdeps fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove jfr /usr/lib/jvm/java-11-openjdk-amd64/bin/jfr
+update-alternatives 2024-06-23 17:30:54: link group jfr fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove jimage /usr/lib/jvm/java-11-openjdk-amd64/bin/jimage
+update-alternatives 2024-06-23 17:30:54: link group jimage fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove jinfo /usr/lib/jvm/java-11-openjdk-amd64/bin/jinfo
+update-alternatives 2024-06-23 17:30:54: link group jinfo fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove jlink /usr/lib/jvm/java-11-openjdk-amd64/bin/jlink
+update-alternatives 2024-06-23 17:30:54: link group jlink fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove jmap /usr/lib/jvm/java-11-openjdk-amd64/bin/jmap
+update-alternatives 2024-06-23 17:30:54: link group jmap fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove jmod /usr/lib/jvm/java-11-openjdk-amd64/bin/jmod
+update-alternatives 2024-06-23 17:30:54: link group jmod fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove jps /usr/lib/jvm/java-11-openjdk-amd64/bin/jps
+update-alternatives 2024-06-23 17:30:54: link group jps fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove jrunscript /usr/lib/jvm/java-11-openjdk-amd64/bin/jrunscript
+update-alternatives 2024-06-23 17:30:54: link group jrunscript fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove jshell /usr/lib/jvm/java-11-openjdk-amd64/bin/jshell
+update-alternatives 2024-06-23 17:30:54: link group jshell fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove jstack /usr/lib/jvm/java-11-openjdk-amd64/bin/jstack
+update-alternatives 2024-06-23 17:30:54: link group jstack fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove jstat /usr/lib/jvm/java-11-openjdk-amd64/bin/jstat
+update-alternatives 2024-06-23 17:30:54: link group jstat fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove jstatd /usr/lib/jvm/java-11-openjdk-amd64/bin/jstatd
+update-alternatives 2024-06-23 17:30:54: link group jstatd fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove rmic /usr/lib/jvm/java-11-openjdk-amd64/bin/rmic
+update-alternatives 2024-06-23 17:30:54: link group rmic fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove serialver /usr/lib/jvm/java-11-openjdk-amd64/bin/serialver
+update-alternatives 2024-06-23 17:30:54: link group serialver fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove jaotc /usr/lib/jvm/java-11-openjdk-amd64/bin/jaotc
+update-alternatives 2024-06-23 17:30:54: link group jaotc fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove jhsdb /usr/lib/jvm/java-11-openjdk-amd64/bin/jhsdb
+update-alternatives 2024-06-23 17:30:54: link group jhsdb fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove java /usr/lib/jvm/java-11-openjdk-amd64/bin/java
+update-alternatives 2024-06-23 17:30:54: link group java fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove jjs /usr/lib/jvm/java-11-openjdk-amd64/bin/jjs
+update-alternatives 2024-06-23 17:30:54: link group jjs fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove keytool /usr/lib/jvm/java-11-openjdk-amd64/bin/keytool
+update-alternatives 2024-06-23 17:30:54: link group keytool fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove rmid /usr/lib/jvm/java-11-openjdk-amd64/bin/rmid
+update-alternatives 2024-06-23 17:30:54: link group rmid fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove rmiregistry /usr/lib/jvm/java-11-openjdk-amd64/bin/rmiregistry
+update-alternatives 2024-06-23 17:30:54: link group rmiregistry fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove pack200 /usr/lib/jvm/java-11-openjdk-amd64/bin/pack200
+update-alternatives 2024-06-23 17:30:54: link group pack200 fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove unpack200 /usr/lib/jvm/java-11-openjdk-amd64/bin/unpack200
+update-alternatives 2024-06-23 17:30:54: link group unpack200 fully removed
+update-alternatives 2024-06-23 17:30:54: run with --remove jexec /usr/lib/jvm/java-11-openjdk-amd64/lib/jexec
+update-alternatives 2024-06-23 17:30:54: link group jexec fully removed
+update-alternatives 2024-06-23 17:31:15: run with --install /usr/bin/java java /usr/lib/jvm/java-17-openjdk-amd64/bin/java 1711 --slave /usr/share/man/man1/java.1.gz java.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/java.1.gz
+update-alternatives 2024-06-23 17:31:15: link group java updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/java
+update-alternatives 2024-06-23 17:31:15: run with --install /usr/bin/jpackage jpackage /usr/lib/jvm/java-17-openjdk-amd64/bin/jpackage 1711 --slave /usr/share/man/man1/jpackage.1.gz jpackage.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jpackage.1.gz
+update-alternatives 2024-06-23 17:31:15: link group jpackage updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jpackage
+update-alternatives 2024-06-23 17:31:15: run with --install /usr/bin/keytool keytool /usr/lib/jvm/java-17-openjdk-amd64/bin/keytool 1711 --slave /usr/share/man/man1/keytool.1.gz keytool.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/keytool.1.gz
+update-alternatives 2024-06-23 17:31:15: link group keytool updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/keytool
+update-alternatives 2024-06-23 17:31:15: run with --install /usr/bin/rmiregistry rmiregistry /usr/lib/jvm/java-17-openjdk-amd64/bin/rmiregistry 1711 --slave /usr/share/man/man1/rmiregistry.1.gz rmiregistry.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/rmiregistry.1.gz
+update-alternatives 2024-06-23 17:31:15: link group rmiregistry updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/rmiregistry
+update-alternatives 2024-06-23 17:31:15: run with --install /usr/bin/jexec jexec /usr/lib/jvm/java-17-openjdk-amd64/lib/jexec 1711 --slave /usr/share/binfmts/jar jexec-binfmt /usr/lib/jvm/java-17-openjdk-amd64/lib/jar.binfmt
+update-alternatives 2024-06-23 17:31:15: link group jexec updated to point to /usr/lib/jvm/java-17-openjdk-amd64/lib/jexec
+update-alternatives 2024-06-23 17:31:16: run with --install /usr/share/icons/default/index.theme x-cursor-theme /usr/share/icons/Adwaita/cursor.theme 90
+update-alternatives 2024-06-23 17:31:16: link group x-cursor-theme updated to point to /usr/share/icons/Adwaita/cursor.theme
+update-alternatives 2024-06-23 17:31:16: run with --install /usr/bin/jar jar /usr/lib/jvm/java-17-openjdk-amd64/bin/jar 1711 --slave /usr/share/man/man1/jar.1.gz jar.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jar.1.gz
+update-alternatives 2024-06-23 17:31:16: link group jar updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jar
+update-alternatives 2024-06-23 17:31:16: run with --install /usr/bin/jarsigner jarsigner /usr/lib/jvm/java-17-openjdk-amd64/bin/jarsigner 1711 --slave /usr/share/man/man1/jarsigner.1.gz jarsigner.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jarsigner.1.gz
+update-alternatives 2024-06-23 17:31:16: link group jarsigner updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jarsigner
+update-alternatives 2024-06-23 17:31:16: run with --install /usr/bin/javac javac /usr/lib/jvm/java-17-openjdk-amd64/bin/javac 1711 --slave /usr/share/man/man1/javac.1.gz javac.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/javac.1.gz
+update-alternatives 2024-06-23 17:31:16: link group javac updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/javac
+update-alternatives 2024-06-23 17:31:16: run with --install /usr/bin/javadoc javadoc /usr/lib/jvm/java-17-openjdk-amd64/bin/javadoc 1711 --slave /usr/share/man/man1/javadoc.1.gz javadoc.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/javadoc.1.gz
+update-alternatives 2024-06-23 17:31:16: link group javadoc updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/javadoc
+update-alternatives 2024-06-23 17:31:16: run with --install /usr/bin/javap javap /usr/lib/jvm/java-17-openjdk-amd64/bin/javap 1711 --slave /usr/share/man/man1/javap.1.gz javap.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/javap.1.gz
+update-alternatives 2024-06-23 17:31:16: link group javap updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/javap
+update-alternatives 2024-06-23 17:31:16: run with --install /usr/bin/jcmd jcmd /usr/lib/jvm/java-17-openjdk-amd64/bin/jcmd 1711 --slave /usr/share/man/man1/jcmd.1.gz jcmd.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jcmd.1.gz
+update-alternatives 2024-06-23 17:31:16: link group jcmd updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jcmd
+update-alternatives 2024-06-23 17:31:16: run with --install /usr/bin/jdb jdb /usr/lib/jvm/java-17-openjdk-amd64/bin/jdb 1711 --slave /usr/share/man/man1/jdb.1.gz jdb.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jdb.1.gz
+update-alternatives 2024-06-23 17:31:16: link group jdb updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jdb
+update-alternatives 2024-06-23 17:31:16: run with --install /usr/bin/jdeprscan jdeprscan /usr/lib/jvm/java-17-openjdk-amd64/bin/jdeprscan 1711 --slave /usr/share/man/man1/jdeprscan.1.gz jdeprscan.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jdeprscan.1.gz
+update-alternatives 2024-06-23 17:31:16: link group jdeprscan updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jdeprscan
+update-alternatives 2024-06-23 17:31:16: run with --install /usr/bin/jdeps jdeps /usr/lib/jvm/java-17-openjdk-amd64/bin/jdeps 1711 --slave /usr/share/man/man1/jdeps.1.gz jdeps.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jdeps.1.gz
+update-alternatives 2024-06-23 17:31:16: link group jdeps updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jdeps
+update-alternatives 2024-06-23 17:31:16: run with --install /usr/bin/jfr jfr /usr/lib/jvm/java-17-openjdk-amd64/bin/jfr 1711 --slave /usr/share/man/man1/jfr.1.gz jfr.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jfr.1.gz
+update-alternatives 2024-06-23 17:31:16: link group jfr updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jfr
+update-alternatives 2024-06-23 17:31:16: run with --install /usr/bin/jimage jimage /usr/lib/jvm/java-17-openjdk-amd64/bin/jimage 1711
+update-alternatives 2024-06-23 17:31:16: link group jimage updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jimage
+update-alternatives 2024-06-23 17:31:16: run with --install /usr/bin/jinfo jinfo /usr/lib/jvm/java-17-openjdk-amd64/bin/jinfo 1711 --slave /usr/share/man/man1/jinfo.1.gz jinfo.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jinfo.1.gz
+update-alternatives 2024-06-23 17:31:16: link group jinfo updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jinfo
+update-alternatives 2024-06-23 17:31:16: run with --install /usr/bin/jlink jlink /usr/lib/jvm/java-17-openjdk-amd64/bin/jlink 1711 --slave /usr/share/man/man1/jlink.1.gz jlink.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jlink.1.gz
+update-alternatives 2024-06-23 17:31:16: link group jlink updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jlink
+update-alternatives 2024-06-23 17:31:16: run with --install /usr/bin/jmap jmap /usr/lib/jvm/java-17-openjdk-amd64/bin/jmap 1711 --slave /usr/share/man/man1/jmap.1.gz jmap.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jmap.1.gz
+update-alternatives 2024-06-23 17:31:16: link group jmap updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jmap
+update-alternatives 2024-06-23 17:31:16: run with --install /usr/bin/jmod jmod /usr/lib/jvm/java-17-openjdk-amd64/bin/jmod 1711 --slave /usr/share/man/man1/jmod.1.gz jmod.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jmod.1.gz
+update-alternatives 2024-06-23 17:31:16: link group jmod updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jmod
+update-alternatives 2024-06-23 17:31:16: run with --install /usr/bin/jps jps /usr/lib/jvm/java-17-openjdk-amd64/bin/jps 1711 --slave /usr/share/man/man1/jps.1.gz jps.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jps.1.gz
+update-alternatives 2024-06-23 17:31:16: link group jps updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jps
+update-alternatives 2024-06-23 17:31:16: run with --install /usr/bin/jrunscript jrunscript /usr/lib/jvm/java-17-openjdk-amd64/bin/jrunscript 1711 --slave /usr/share/man/man1/jrunscript.1.gz jrunscript.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jrunscript.1.gz
+update-alternatives 2024-06-23 17:31:16: link group jrunscript updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jrunscript
+update-alternatives 2024-06-23 17:31:16: run with --install /usr/bin/jshell jshell /usr/lib/jvm/java-17-openjdk-amd64/bin/jshell 1711 --slave /usr/share/man/man1/jshell.1.gz jshell.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jshell.1.gz
+update-alternatives 2024-06-23 17:31:16: link group jshell updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jshell
+update-alternatives 2024-06-23 17:31:16: run with --install /usr/bin/jstack jstack /usr/lib/jvm/java-17-openjdk-amd64/bin/jstack 1711 --slave /usr/share/man/man1/jstack.1.gz jstack.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jstack.1.gz
+update-alternatives 2024-06-23 17:31:16: link group jstack updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jstack
+update-alternatives 2024-06-23 17:31:16: run with --install /usr/bin/jstat jstat /usr/lib/jvm/java-17-openjdk-amd64/bin/jstat 1711 --slave /usr/share/man/man1/jstat.1.gz jstat.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jstat.1.gz
+update-alternatives 2024-06-23 17:31:16: link group jstat updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jstat
+update-alternatives 2024-06-23 17:31:16: run with --install /usr/bin/jstatd jstatd /usr/lib/jvm/java-17-openjdk-amd64/bin/jstatd 1711 --slave /usr/share/man/man1/jstatd.1.gz jstatd.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jstatd.1.gz
+update-alternatives 2024-06-23 17:31:16: link group jstatd updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jstatd
+update-alternatives 2024-06-23 17:31:16: run with --install /usr/bin/serialver serialver /usr/lib/jvm/java-17-openjdk-amd64/bin/serialver 1711 --slave /usr/share/man/man1/serialver.1.gz serialver.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/serialver.1.gz
+update-alternatives 2024-06-23 17:31:16: link group serialver updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/serialver
+update-alternatives 2024-06-23 17:31:16: run with --install /usr/bin/jhsdb jhsdb /usr/lib/jvm/java-17-openjdk-amd64/bin/jhsdb 1711 --slave /usr/share/man/man1/jhsdb.1.gz jhsdb.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jhsdb.1.gz
+update-alternatives 2024-06-23 17:31:16: link group jhsdb updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jhsdb
+update-alternatives 2024-06-23 17:31:16: run with --install /usr/bin/jconsole jconsole /usr/lib/jvm/java-17-openjdk-amd64/bin/jconsole 1711 --slave /usr/share/man/man1/jconsole.1.gz jconsole.1.gz /usr/lib/jvm/java-17-openjdk-amd64/man/man1/jconsole.1.gz
+update-alternatives 2024-06-23 17:31:16: link group jconsole updated to point to /usr/lib/jvm/java-17-openjdk-amd64/bin/jconsole
